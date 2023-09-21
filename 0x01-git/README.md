@@ -1,1 +1,2 @@
-my first work with Alx
+My First work in Alx,
+learning version control in alx program.
